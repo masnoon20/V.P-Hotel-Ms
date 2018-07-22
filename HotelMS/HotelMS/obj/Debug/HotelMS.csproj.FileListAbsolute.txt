@@ -1,0 +1,17 @@
+C:\Users\H.S\Desktop\HotelMS\HotelMS\bin\Debug\HotelMS.exe.config
+C:\Users\H.S\Desktop\HotelMS\HotelMS\bin\Debug\HotelMS.exe
+C:\Users\H.S\Desktop\HotelMS\HotelMS\bin\Debug\HotelMS.pdb
+C:\Users\H.S\Desktop\HotelMS\HotelMS\obj\Debug\HotelMS.csprojResolveAssemblyReference.cache
+C:\Users\H.S\Desktop\HotelMS\HotelMS\obj\Debug\HotelMS.Form1.resources
+C:\Users\H.S\Desktop\HotelMS\HotelMS\obj\Debug\HotelMS.Properties.Resources.resources
+C:\Users\H.S\Desktop\HotelMS\HotelMS\obj\Debug\HotelMS.csproj.GenerateResource.Cache
+C:\Users\H.S\Desktop\HotelMS\HotelMS\obj\Debug\HotelMS.exe
+C:\Users\H.S\Desktop\HotelMS\HotelMS\obj\Debug\HotelMS.pdb
+C:\Users\H.S\Desktop\HotelMS\HotelMS\obj\Debug\HotelMS.from2.resources
+C:\Users\H.S\Desktop\HotelMS\HotelMS\obj\Debug\HotelMS.Form3.resources
+C:\Users\H.S\Desktop\HotelMS\HotelMS\obj\Debug\HotelMS.Form2.resources
+C:\Users\H.S\Desktop\HotelMS\HotelMS\obj\Debug\HotelMS.Form4.resources
+C:\Users\H.S\Desktop\HotelMS\HotelMS\obj\Debug\HotelMS.Form5.resources
+C:\Users\H.S\Desktop\HotelMS\HotelMS\obj\Debug\HotelMS.Form6.resources
+C:\Users\H.S\Desktop\HotelMS\HotelMS\obj\Debug\HotelMS.Form7.resources
+C:\Users\H.S\Desktop\HotelMS\HotelMS\obj\Debug\HotelMS.conn.resources
